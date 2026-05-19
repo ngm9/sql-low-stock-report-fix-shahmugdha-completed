@@ -1,0 +1,14 @@
+postgres-data/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+.env
+*.sql~
+*.tar
+*.gz
